@@ -2,7 +2,7 @@
 
 int main(){
     int age = 22;
-    int *ptr = &age;
+    int *ptr = &age;                      // *   --> Asterisk
     int _age = *ptr;
 
     printf("%d", _age);

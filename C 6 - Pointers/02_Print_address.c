@@ -1,3 +1,4 @@
+// To determine address  use ----> &
 #include <stdio.h>
 
 int main(){

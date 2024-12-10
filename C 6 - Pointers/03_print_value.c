@@ -1,10 +1,11 @@
+//To determine value use ----> *(arterisk)
 #include <stdio.h>
 
 int main(){
     int age = 22;
     int *ptr = &age;
 
-    //print --> address
+    //print --> value
     printf("%d\n", age);
 
     printf("%d\n", *ptr);
