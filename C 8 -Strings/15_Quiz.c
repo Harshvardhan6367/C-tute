@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <string.h>
-//Check 
+//Check Whether a charecter is present in a word or not.
 void checkChar(char str[], char ch);
 int main(){
-    char name[] = "Harshvardhan";                  //While 
+    char name[] = "Harshvardhan";                   
     char ch = 'v';
     checkChar(name, ch);
     return 0;
