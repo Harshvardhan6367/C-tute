@@ -1,5 +1,7 @@
 #include <stdio.h>
+
 int factorial(int n);
+
 int main(){
     printf("factorial is:%d",factorial(6));
     return 0;
