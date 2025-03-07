@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <math.h>
-void calulateprice(float value);
+void calculateprice(float value);
 
 int main(){
     float value = 100.0;
-    calulateprice(value);
+    calculateprice(value);
     printf("Value is %f\n", value);
     
     
